@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ashvin!
+- By profession- Business Analyst.
 - 👀 I’m interested in Data Science Field.
 - 🌱 I’m currently competing on Kaggle.
 - 💞️ I’m looking to collaborate on projects related to data analysis.
